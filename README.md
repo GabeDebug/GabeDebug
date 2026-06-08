@@ -61,15 +61,6 @@ Currently pursuing a degree in Software Development and continuously building pr
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabeDebug&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabeDebug&layout=compact&theme=github_dark" />
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
