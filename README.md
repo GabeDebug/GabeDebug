@@ -27,6 +27,7 @@ Currently pursuing a degree in Software Development and continuously building pr
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Php](https://img.shields.io/badge/Php-3776AB?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frontend Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
